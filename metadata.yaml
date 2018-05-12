@@ -1,0 +1,44 @@
+_repo: Cr-nicas-de-Marianela_34565
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34565-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Palma, Angélica
+    aliases:
+    - Marianela
+    - Roman, Angelica Palma y
+    - Román, Angélica Palma y
+    birthdate: 1883
+    deathdate: 1935
+    gutenberg_agent_id: '38548'
+    url: http://www.gutenberg.org/2009/agents/38548
+  editor:
+    agent_name: Balza, Pedro L.
+    gutenberg_agent_id: '37090'
+    url: http://www.gutenberg.org/2009/agents/37090
+description: ''
+gutenberg_issued: '2010-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34565'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+tableOfContents: Presentación en Sociedad -- El matrimonio -- El amor y su apariencia
+  -- El nó de las niñas -- El Gancho -- Las «Planchadoras» -- La moda y el diablo
+  -- Los «Tramitadores» -- Los afeites -- Las paces -- Crotalogia -- Rosalía en «Los
+  Carpinchos» -- El arte de estar enferma -- Las inquietudes de Petrona -- Pequeña
+  defensa de la murmuración -- Los secretos -- La desventura de Luisa -- Desavenencia
+  trascendental -- Las reinas en la guerra -- Frivolidad y tilinguismo -- Inés y los
+  cipreses -- La fiesta hípica -- Las angustias de mi protegida -- La inutilidad de
+  San Juan Bautista -- Sin presidenta -- La abuela del rey de los cipreses, o el orgullo
+  ancestral -- ¡¡Desahuciado!! -- La viuda de Esquilón va a Mar del Plata.
+title: Crónicas de Marianela
+url: http://www.gutenberg.org/ebooks/34565
